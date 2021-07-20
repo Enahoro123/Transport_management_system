@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    min-height:100%;
+    width: 100%;
+    color: #fff;
+}
+h3{
+    padding-top: 40px;
+    color: #fff;
+}
+hr{
+    width: 150px;
+    padding-bottom: 5px;
+    background-color: #ec4444 !important;
+}
+img{
+    width: 570px;
+    border-radius: 10px;
+}
+#header{
+    padding-bottom: 20px;
+    color: #fff;
+    background-color: #000;
+}
+.back{
+    z-index: 1;
+    background: rgb(199, 197, 197);
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    border-radius: 10px;
+}
+#layer1{
+    padding-top: 60px;
+    background-color: #000;
+}
+.fa-bus{
+    color: #ec4444;
+}

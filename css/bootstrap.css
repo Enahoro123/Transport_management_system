@@ -2964,8 +2964,8 @@ textarea.form-control-lg {
 }
 .btn-secondary:hover {
   color: #fff;
-  background-color: transparent;
-  border-color: #ec4444;
+  background-color: #df3535;
+  border-color: none;
 }
 .btn-check:focus + .btn-secondary, .btn-secondary:focus {
   color: #fff;
@@ -2977,9 +2977,6 @@ textarea.form-control-lg {
   color: #fff;
   background-color: #ec4444;
   border-color: #ec4444;
-}
-.btn-check:checked + .btn-secondary:focus, .btn-check:active + .btn-secondary:focus, .btn-secondary:active:focus, .btn-secondary.active:focus, .show > .btn-secondary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.25rem #ec4444;
 }
 .btn-secondary:disabled, .btn-secondary.disabled {
   color: #fff;
