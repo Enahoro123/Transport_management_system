@@ -12,14 +12,15 @@ h3{
     color: #fff;
 }
 hr{
-    width: 160px;
+    width: 50%;
     padding-bottom: 5px;
     background-color: #ec4444 !important;
 }
 img{
-    width: 560px;
+    width: 100%;
     border-radius: 10px;
 }
+
 #header{
     padding-bottom: 20px;
     color: #fff;
